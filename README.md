@@ -4,6 +4,17 @@ Screenshot of the app below
 
 ![](screenshot/weatherappScreenshot.PNG)
 
+________________________________
+
+INTERN DETAILS BELOW:
+--------------------
+FULLNAME: Arionye Kenechukwu O.
+INTERN ID: SH-IT-48186
+EMAIL: kenechiaugustine@gmail.com
+WEEK: 2
+
+________________________________
+
 A new Flutter project.
 
 ## Getting Started
