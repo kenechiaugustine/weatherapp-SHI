@@ -8,10 +8,10 @@ ________________________________
 
 INTERN DETAILS BELOW:
 --------------------
-FULLNAME: Arionye Kenechukwu O.
-INTERN ID: SH-IT-48186
-EMAIL: kenechiaugustine@gmail.com
-WEEK: 2
+FULLNAME: Arionye Kenechukwu O. <br />
+INTERN ID: SH-IT-48186 <br />
+EMAIL: kenechiaugustine@gmail.com <br />
+WEEK: 2 <br />
 
 ________________________________
 
