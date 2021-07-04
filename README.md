@@ -1,6 +1,6 @@
 # weatherapp_shi
 
-Screenshot of
+Screenshot of the app below
 
 ![](screenshot/weatherappScreenshot.PNG)
 
