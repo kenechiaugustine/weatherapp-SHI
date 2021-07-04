@@ -2,7 +2,7 @@
 
 Screenshot of
 
-screenshot/weatherappScreenshot.PNG
+![](screenshot/weatherappScreenshot.PNG)
 
 A new Flutter project.
 
